@@ -22,7 +22,7 @@ const RightMenu = [
     {
         catalog: "Catalog Buyers",
         transaction: "Sales Order EN",
-        title: "Sales Order",
+        title: "New Order",
         action: "createNewTransaction",
         deepLink: '/Transactions/scope_items/{{UUID}}'
     },
